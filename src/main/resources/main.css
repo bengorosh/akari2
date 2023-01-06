@@ -1,0 +1,34 @@
+/**
+ * Write CSS code in this file to style your JavaFX user interface
+ *
+ * Note: You must link this file to your scene object by adding the following line of code to the
+ * JavaFX start() method:
+ *   scene.getStylesheets().add("main.css");
+ */
+
+ .lamp {
+    -fx-background-image: url("light-bulb.png");
+ }
+
+ .lit{
+
+ }
+
+ .illegalLamp{
+
+ }
+
+ .layout{
+   -fx-background-color: #faf8f0;
+   -fx-font-family: Arial, sans-serif;
+   -fx-font-weight: bold;
+   -fx-font-size: 12px;
+   -fx-padding: 10px;
+ }
+
+ .message{
+    -fx-padding: 1px;
+    -fx-text-fill: #000000
+    -fx-font-size
+    -fx-font
+ }
